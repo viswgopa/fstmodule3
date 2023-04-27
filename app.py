@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Welcome to RedHat from Viswa And it's new version v1.0!
+Welcome to RedHat from Viswa!! It's a new version v1.0
 ''')
 
 def run():
